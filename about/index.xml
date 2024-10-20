@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Hello Friend NG</title>
+    <link>https://RokJok.github.io/about/</link>
+    <description>Recent content in Abouts on Hello Friend NG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 20 Oct 2024 12:25:12 +0300</lastBuildDate>
+    <atom:link href="https://RokJok.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://RokJok.github.io/about/about/</link>
+      <pubDate>Sun, 20 Oct 2024 12:25:12 +0300</pubDate>
+      <guid>https://RokJok.github.io/about/about/</guid>
+      <description>&lt;h2 id=&#34;sveiki-atvyke&#34;&gt;Sveiki atvyke&lt;/h2&gt;&#xA;&lt;p&gt;Šis puslapis skirtas suteikti daugiau informacijos apie mūsų veiklą.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
